@@ -1,0 +1,15 @@
+# Ignoring all files and directories other than ../lib
+
+bin/
+extra/
+fluffos-2.23-ds03/
+runmud.bat
+UNIX_INSTRUCTIONS.txt
+win32/
+WINDOWS_INSTRUCTIONS.txt
+lib/daemon/tmp/
+lib/log/
+lib/save/
+lib/secure/
+lib/tmp/
+lib/www/mudlist
